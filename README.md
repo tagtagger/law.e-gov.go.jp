@@ -39,6 +39,7 @@
 
 ## 更新履歴
 
+* 2014/11/25 : 更新 + htmldataに「登録略称法令名一覧」追加
 * 2014/11/08 : 作成
 
 [lawjp]:http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi
